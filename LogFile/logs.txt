@@ -1,0 +1,29 @@
+INFO 2022-01-16 20:00:42,858 - BANK MANAGEMENT SYSTEM is Activated.
+INFO 2022-01-16 20:01:08,665 - 
+Account Created Successfully. Your account number is 6824
+INFO 2022-01-16 20:02:06,974 - 
+Account Created Successfully. Your account number is 933
+INFO 2022-01-16 20:03:43,103 - 
+Amount 400 Deposited Successfully for Account No.- 933
+INFO 2022-01-16 20:06:01,396 - 
+Amount 1200 Withdrawn Successfully for Account No.- 933
+INFO 2022-01-16 20:07:20,215 - BANK MANAGEMENT SYSTEM is Activated.
+INFO 2022-01-16 20:07:38,342 - 
+Account Created Successfully. Your account number is 4900
+INFO 2022-01-16 20:08:15,313 - 
+Amount 200 Withdrawn Successfully for Account No.- 4900
+INFO 2022-01-16 20:08:37,243 - BANK MANAGEMENT SYSTEM is Activated.
+INFO 2022-01-16 20:10:21,233 - 
+Amount 200 Withdrawn Successfully for Account No.- 4900
+INFO 2022-01-16 20:22:24,221 - BANK MANAGEMENT SYSTEM is Activated.
+INFO 2022-01-16 20:22:39,712 - 
+Account Created Successfully. Your account number is 326
+INFO 2022-01-16 20:22:52,943 - User requested his account details.
+INFO 2022-01-16 20:23:37,694 - BANK MANAGEMENT SYSTEM is Activated.
+INFO 2022-01-16 20:23:44,105 - User requested his account details.
+INFO 2022-01-16 20:24:33,156 - BANK MANAGEMENT SYSTEM is Activated.
+INFO 2022-01-16 20:28:40,771 - BANK MANAGEMENT SYSTEM is Activated.
+INFO 2022-01-16 20:28:45,593 - User requested his account details.
+WARNING 2022-01-16 20:28:45,593 - Account does not exist.
+INFO 2022-01-16 20:30:13,307 - BANK MANAGEMENT SYSTEM is Activated.
+INFO 2022-01-16 20:31:57,026 - BANK MANAGEMENT SYSTEM is Activated.

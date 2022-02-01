@@ -1,0 +1,1 @@
+{"First Name": "Kartik", "Last Name": "Panday", "DOB": "1996-09-18", "Deposit": 1000, "Last withdrawl Amount": "0", "Age": 25}
